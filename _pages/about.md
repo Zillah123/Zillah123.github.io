@@ -1,6 +1,6 @@
 ---
 title: "About Emmanuel"
-permalink: /about/
+permalink: /Biography/
 header:
   image: "/images/zakim.jpg"
 ---
