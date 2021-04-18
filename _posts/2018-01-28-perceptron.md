@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Cash-Register Project"
+date: 2019-03-28
+tags: [Creation of a Cash Register to show the value of Object Oriented programming]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Creation of a Cash Register to show the value of Object Oriented programming"
 mathjax: "true"
 ---
 
