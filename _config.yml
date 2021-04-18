@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Emmanuel Vidal"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Emmanuel_Vidal_Blue_Suit.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Pennsylvania"
   email            : "eovidal@my365.bellevue.edu"
