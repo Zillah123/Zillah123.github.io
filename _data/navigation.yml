@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Biography"
+  - title: "About"
     url: /Biography/
-  - title: "Projects"
+  - title: "Work"
     url: /Projects/
+  - title: "Contact"
+    url: /Contact/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
