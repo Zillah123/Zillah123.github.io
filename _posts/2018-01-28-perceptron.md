@@ -6,10 +6,6 @@ header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Creation of a Cash Register to show the value of Object Oriented programming"
 mathjax: "true"
-
-title: "Ensemble"
-excerpt: "Ensemble to predict the recurrence of breast cancer in women. using 5 machine learning algorithm"
-mathjax: "true"
 ---
 
 # H1 Heading
