@@ -1,11 +1,7 @@
 ---
 title: "Cash-Register Project"
-date: 2019-03-28
-tags: [Creation of a Cash Register to show the value of Object Oriented programming]
-header:
-  image: "/images/perceptron/percept.jpg"
 excerpt: "Creation of a Cash Register to show the value of Object Oriented programming"
-mathjax: "true"
+collection: "posts"
 ---
 
 # H1 Heading
