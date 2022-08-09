@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emmanuel Vidal Data Science Projects"
+title                    : "Emmanuel Vidal Data Analytics/Science Projects"
 title_separator          : "-"
 name                     : "Emmanuel Vidal"
-description              : "Data Science Portfolio"
+description              : "Data Analytics/Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -86,9 +86,9 @@ analytics:
 author:
   name             : "Emmanuel Vidal"
   avatar           : "/images/Emmanuel_Vidal_Blue_Suit.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "Pennsylvania"
-  email            : "eovidal@my365.bellevue.edu"
+  bio              : "Data Analytics/Science Portfolio"
+  location         : "Maryland"
+  email            : "eovidal@my365.bellevue.edu;pro_vidal@yahoo.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Zillah123?tab=repositories"
+  github           : "Zillah123?tab=repositories"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "dataoptimal" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "emmanuel-vidal-6a6b53238/" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
