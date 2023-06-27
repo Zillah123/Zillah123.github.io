@@ -5,4 +5,4 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-A work in Progess, do not have any contact as at now.
+A work in progress.
